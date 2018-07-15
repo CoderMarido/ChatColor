@@ -1,0 +1,5 @@
+name: ChatColor
+main: nl.marido.chatcolor.ChatColor
+version: 1.0
+author: Marido
+description: ChatColor is an alternative for chat or signs with every color or format.
